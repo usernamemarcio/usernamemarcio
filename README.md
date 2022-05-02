@@ -4,7 +4,7 @@
 
 - 🔭 Hoje sou estudante de ADS
 - 🌱 Estudando desenvolvimento web
-- 📫 Contate-me: <a href="mailto:mpereiradossantos242">Neste e-mail</a> e no meu <a href="https://www.linkedin.com/in/marcio-pereira-dos-santos-a76972220/">LinkedIn.</a>
+- 📫 Contate-me: <a href="mailto:mpereiradossantos242@gmail.com">Neste e-mail</a> e no meu <a href="https://www.linkedin.com/in/marcio-pereira-dos-santos-a76972220/">LinkedIn.</a>
 - ⚡ Além de programar gosto de heavy metal, jogos e de ler
 
 ##
