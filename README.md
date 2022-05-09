@@ -1,9 +1,9 @@
-<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Marcio Santos</h1>
+<h1 align="left">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Marcio Santos</h1>
 
-- 🔭 Hoje sou estudante de ADS
-- 🌱 Estudando desenvolvimento web
-- 📫 Contate-me: <a href="mailto:mpereiradossantos242@gmail.com">Neste e-mail</a> ou no meu <a href="https://www.linkedin.com/in/marcio-pereira-dos-santos-a76972220/">LinkedIn.</a>
-- ⚡ Além de programar gosto de heavy metal, jogos e de ler
+- 🔭 I am a systems and development student
+- 🌱 Studying web development
+- 📫 Contacts: <a href="mailto:mpereiradossantos242@gmail.com">In this e-mail</a> or in my <a href="https://www.linkedin.com/in/marcio-pereira-dos-santos-a76972220/">LinkedIn</a>
+- ⚡ Besides programming I like heavy metal, gaming and reading
   
 ##
 
@@ -26,7 +26,7 @@
   
 ##
   
-<h3>⚙️ FERRAMENTAS</h3>
+<h3>⚙️ TOOLS</h3>
 <div style="display: inline_block"><br>
     <img align="center" alt="Marcio-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
     <img align="center" alt="Marcio-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -34,8 +34,14 @@
 </div>
   
 ##
-<h3>📧 CONTATOS</H3>
+<h3>📧 CONTACTS</H3>
+
 <div>
   <a href = "mailto:mpereiradossantos242@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcio-pereira-dos-santos-a76972220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<h3>Thanks for visiting my profile! 👋</h3>
+  
+##
+ 
+![giphy (1)](https://user-images.githubusercontent.com/80237531/167498517-f8b83481-bcef-4d8c-8495-630802020681.gif)
