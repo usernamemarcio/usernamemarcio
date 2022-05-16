@@ -1,7 +1,7 @@
 <h1 align="left">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Marcio Santos</h1>
 
 - 🔭 I am a systems and development student
-- 🌱 Studying web development
+- 🌱 Studying back-end development
 - 📫 Contacts: <a href="mailto:mpereiradossantos242@gmail.com">In this e-mail</a> or in my <a href="https://www.linkedin.com/in/marcio-pereira-dos-santos-a76972220/">LinkedIn</a>
 - ⚡ Besides programming I like heavy metal, gaming and reading
   
