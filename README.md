@@ -23,8 +23,8 @@ currently I have dedicated myself to becoming a backend dev.
   
 ## Some facts about me
 - 🔭 I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences.
-- 🌱 I'm studying systems analysis and development. 💻
-- ⚡ Besides programming I like heavy metal, gaming and reading.
+- 🌱 I'm studying systems analysis and development. 
+- ⚡ Besides programming I like heavy metal, gaming, reading and brazilian jiu-jitsu. 
 
 ## My Github stats
 <div align="center" >
