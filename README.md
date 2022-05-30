@@ -17,9 +17,10 @@ currently I have dedicated myself to becoming a backend dev.
 ```
   
 ## Technologies I am currently studying
-- Java
-- MySQL
-- Spring Framework
+- Java 11
+- APIRestfull and microservices
+- MySQL/NoSQL
+- Spring Boot
   
 ## Some facts about me
 - 🔭 I love to learn new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences.
