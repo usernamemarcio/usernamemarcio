@@ -9,7 +9,7 @@
 
 <h3 align = "center"><br>
   
-Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Marcio Santos!
+Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> I'm Marcio Santos!
   
 ```
 Systems analysis and development student at Uninter, 
