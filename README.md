@@ -11,23 +11,22 @@
   
 Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="25px"> I'm Marcio Santos!
   
-```
-Systems analysis and development student at Uninter, 
-currently I have dedicated myself to becoming a backend dev.
-```
+<p>
+  I'm a technology-enthusiastic professional. I'm motivated by challenges and believe in constancy to develop skills and grow as a human being.
+  
+  Currently studying Systems Analysis and Development, participating in communities and practicing knowledge through short courses. I want to be able to help companies   achieve results.
+</p>
 
 ## ⚡ Technologies
 These are some of the technologies and tools that I work with:<br>
-<p><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> </p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> </p>
   
 ## 👨‍💻 Technologies I am currently studying
-- Java
 - HTML5
 - CSS3
 - JavaScript
 - APIRestfull and microservices
 - MySQL/MongoDB
-- Spring Framework
   
 ## Some facts about me
 - 🔭 I love to learn new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences.
